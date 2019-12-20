@@ -1,0 +1,2 @@
+# HR-Attrition-Analytics
+Human Resources are important resources for any organiazation. Organizations spend huge amount of time and money to hire and nuture their employees. if HR can predict weather employees are at risk for leaving the company, it will allow them to identify the attrition risks and provie necessary support to retain those employees or do preventive hiring. Case study performs predictive modeling using logistic regression and decision trees. Decision tree model perfrms with >95% accuarcy.
